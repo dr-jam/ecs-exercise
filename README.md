@@ -1,9 +1,9 @@
 
 # Assignment 4 #
 
-## Primer for Assignment 4##
+## Primer for Assignment 4 ##
 
-In order to do this assignment, become familiar with the stats tab within the Unity GUI.
+In order to do this assignment, become familiar with the stats tab within the Unity editor.
 
 The stats tab will be on the Game view tab. Enable this in order to see the FPS to do this assignment.
 
